@@ -1,0 +1,9 @@
+C:\Users\352871685\Documents\ICS4U\Assignments\Assignment1\Duplicates\bin\Debug\Duplicates.exe.config
+C:\Users\352871685\Documents\ICS4U\Assignments\Assignment1\Duplicates\bin\Debug\Duplicates.exe
+C:\Users\352871685\Documents\ICS4U\Assignments\Assignment1\Duplicates\bin\Debug\Duplicates.pdb
+C:\Users\352871685\Documents\ICS4U\Assignments\Assignment1\Duplicates\obj\Debug\Duplicates.csprojResolveAssemblyReference.cache
+C:\Users\352871685\Documents\ICS4U\Assignments\Assignment1\Duplicates\obj\Debug\Duplicates.Form1.resources
+C:\Users\352871685\Documents\ICS4U\Assignments\Assignment1\Duplicates\obj\Debug\Duplicates.Properties.Resources.resources
+C:\Users\352871685\Documents\ICS4U\Assignments\Assignment1\Duplicates\obj\Debug\Duplicates.csproj.GenerateResource.Cache
+C:\Users\352871685\Documents\ICS4U\Assignments\Assignment1\Duplicates\obj\Debug\Duplicates.exe
+C:\Users\352871685\Documents\ICS4U\Assignments\Assignment1\Duplicates\obj\Debug\Duplicates.pdb
